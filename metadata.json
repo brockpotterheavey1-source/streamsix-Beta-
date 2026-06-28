@@ -1,0 +1,6 @@
+{
+  "name": "StreamSix",
+  "description": "Premium Android TV movie streaming app with rich metadata, cinematic UI, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
